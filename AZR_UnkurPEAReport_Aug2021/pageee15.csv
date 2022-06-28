@@ -1,0 +1,14 @@
+0,1,2,3,4,5,6,7
+Table 1.2:  Mineral Resource Estimate for the Unkur Project,,,,,,,
+Classification,Method,Type,COG (CuEq %),Tonnes (Mt),Cu (%),Ag (g/t),CuEq (%)
+Inferred,OP,Oxide,0.18,15.7,0.61,45,1.05
+,,Sulphide,,17.1,0.59,49,1.03
+,"UG 
+North",Oxide,0.54,0.4,0.51,23,0.73
+,,Sulphide,,14.2,0.55,30,0.83
+,"UG 
+South",Oxide,,-,-,-,-
+,,Sulphide,,3.7,0.64,20,0.82
+,TOTAL,OXIDE,,16.1,0.61,44,1.04
+,TOTAL,SULPHIDE,,35.0,0.58,38,0.93
+,TOTAL,ALL,,51.1,0.59,40,0.96

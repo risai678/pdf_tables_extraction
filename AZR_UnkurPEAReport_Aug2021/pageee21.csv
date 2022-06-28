@@ -1,0 +1,19 @@
+0,1,2,3,4
+Table 1.6:  Physicals for Oxide Processing Options,,,,
+OXIDE ORE,"Option 1 
+(Agitated Leach)","Option 2 
+(Sequential 
+Agitated Leach)","Option 3 
+(Heap Leach)","Option 4 
+(Sequential Heap 
+Leach)"
+"Copper Recovery, %",55.1,95.0,55.9,80.6
+"Silver Recovery, %",91.1,95.0,73.4,73.4
+"Capital Cost, $M",164.3,229.8,52.3,97.3
+"Operating Cost, $/t",18.3,27.4,5.8,15.4
+Table 1.7:  Summary of Key Parameters for Sulphide Ore Processing,,,,
+SULPHIDE ORE,Copper Flotation Plant,,,
+"Copper Recovery, %",89.1,,,
+"Silver Recovery, %",82.7,,,
+"Copper Grade, % Cu",25.8,,,
+"Silver Grade, g/t Ag","1,634",,,

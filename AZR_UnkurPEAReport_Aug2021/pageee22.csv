@@ -1,0 +1,16 @@
+0,1,2,3,4,5,6
+Table 1.8:  Summary of Optimization Open Pit Output,,,,,,
+Item,Unit,"Scenario 1, 
+Option 3","Scenario 2, 
+Option 1","Scenario 2, 
+Option 2","Scenario 2, 
+Option 3","Scenario 2, 
+Option 4"
+Waste,t,"97,420,044","243,664,112","252,363,018","228,138,962","254,164,978"
+Ore_oxide,t,"10,980,525","9,219,308","9,230,153","11,949,639","10,232,932"
+Cu_grade,%,0.59,0.73,0.70,0.57,0.66
+Ag_grade,g/t,48.24,61.24,58.69,46.72,54.10
+Ore_sulphide,t,-,"7,502,343","7,498,946","7,020,898","7,530,834"
+Cu_grade,%,-,0.80,0.73,0.74,0.74
+Ag_grade,g/t,-,67.36,66.02,67.48,66.06
+Stripping ratio,t/t,8.87,15.00,15.00,12.03,14.31

@@ -1,0 +1,8 @@
+0,1,2,3
+Table 1.1:  Block Model Dimensions,,,
+,X,Y,Z
+Minimum,"600,200","6,305,300",265
+Maximum,"605,900","6,311,350","1,190"
+Estimation block size (m),10,50,25
+Sub-blocking (m),Variable to fit wireframe,5,5
+Discretisation,1,8,8
